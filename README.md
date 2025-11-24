@@ -35,7 +35,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 🧪 PROCEDURE
 
-1.1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
+1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
 2.	Fix the pre-fitted cylindrical head of the He-Ne laser source on to the surface of the bread board. Confirm the rigid ness of the mount.
 3.	Fix the laser to the fiber coupler mount on to the bread board with base plate orientation of it towards He-Ne laser exit.
 4.	Turn on the He-Ne laser and locate the beam spot on the central portion of the laser-fiber
@@ -59,8 +59,11 @@ A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
-
+![WhatsApp Image 2025-11-15 at 15 56 26_24ce3aef](https://github.com/user-attachments/assets/41b412a9-1cbe-42f2-a5e0-b5720a9b5ab4)
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-15 at 15 57 57_588b6393](https://github.com/user-attachments/assets/92a62a9a-db14-4b20-8148-2b5972f4fb05)
+
 ## Result
+Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes.
