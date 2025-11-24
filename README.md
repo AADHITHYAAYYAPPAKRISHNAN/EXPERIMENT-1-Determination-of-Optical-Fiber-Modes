@@ -1,4 +1,6 @@
 
+
+
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -44,7 +46,6 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 6.	Confirm the central alignment of the laser beam at the exit of the laser fiber coupler by putting a white card sheet and zooming the spot on to it. In case the spot is found of center, adjust it to the center by slightly moving the screws of the laser mount.
 7.	Put the multimode optical patch cord on to the laser fiber coupler exit and fix the other end of the fiber in the fiber holding stand by moving the grub screws provided with the holder.
 8.	Notice the bright laser beam spot coming out of the fiber. Adjust the height of exit tip of the fiber to about 50mm. Min. from the white sheet of the paper.
- 
 9.	Observe the bright round shape circular spot with laser speckle pattern on to the screen. Multimode pattern can be refined by screws provided with laser-fiber coupler. Slightly adjusting or moving the screws on the laser mount, view the change in pattern of this multimode spot. After observing the multimode pattern, change multimode fiber optic patch cord with single mode fiber patch cord.
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
@@ -53,18 +54,21 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- 
-Parameter of given fiber are,
-A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
-From fig. shows only 4 LP modes propagates.
-Total number of modes = V2 / 2 = 4.912 / 2
-<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/6205115c-fd28-4247-99bb-9e15a1c5ca84" />
 
-![WhatsApp Image 2025-11-15 at 15 56 26_24ce3aef](https://github.com/user-attachments/assets/41b412a9-1cbe-42f2-a5e0-b5720a9b5ab4)
+--- 
+
+Parameter of given fiber are,
+- A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
+- V = 2 π x A x N.A / λ = 4.91
+- From fig. shows only 4 LP modes propagates.
+- Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
+
+![WhatsApp Image 2025-11-15 at 15 56 26_24ce3aef](https://github.com/user-attachments/assets/41b412a9-1cbe-42f2-a5e0-b5720a9b5ab4)
 ![WhatsApp Image 2025-11-15 at 15 57 57_588b6393](https://github.com/user-attachments/assets/92a62a9a-db14-4b20-8148-2b5972f4fb05)
 
+---
 ## Result
-Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes.
+The fiber optic cable supports approximately 6 modes, and four lower-order LP modes were observed experimentally.
